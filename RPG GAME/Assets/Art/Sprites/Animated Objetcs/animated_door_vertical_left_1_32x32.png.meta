@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 27ebbe4565d31794999f9b9ce3fbb081
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animated_door_vertical_left_1_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 40
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c87b51ea1b034aa10e0eeb79d9a4d
+      internalID: 553588022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_door_vertical_left_1_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1eeffcbc01f0b459033228fba9b5ed
+      internalID: 344321811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_door_vertical_left_1_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4708d6f4ac0e7649a331c888e9a9f73
+      internalID: -1134540139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_door_vertical_left_1_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 51
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f4e95d7678b714d854963e203e84e7
+      internalID: -623719221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_door_vertical_left_1_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 49
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5db3ff099f8c44cb16c952fd6d44b0
+      internalID: 536949595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_door_vertical_left_1_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 36
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53526c6570baea24aa404bd835806353
+      internalID: 1013312087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_door_vertical_left_1_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eaf6010110d714cae9c439339e4cd4
+      internalID: -1054628306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animated_door_vertical_left_1_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03db20baa28bd1c4fb930eacee0f56ad
+      internalID: -1571402713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      animated_door_vertical_left_1_32x32_23: 2088723169
+      animated_door_vertical_left_1_32x32_29: -838260308
+      animated_door_vertical_left_1_32x32_14: -1475785642
+      animated_door_vertical_left_1_32x32_1: -676833592
+      animated_door_vertical_left_1_32x32_39: 697582839
+      animated_door_vertical_left_1_32x32_22: -623719221
+      animated_door_vertical_left_1_32x32_26: 1013312087
+      animated_door_vertical_left_1_32x32_24: 536949595
+      animated_door_vertical_left_1_32x32_28: -1054628306
+      animated_door_vertical_left_1_32x32_7: 1622152307
+      animated_door_vertical_left_1_32x32_21: 1151306169
+      animated_door_vertical_left_1_32x32_32: -1346202929
+      animated_door_vertical_left_1_32x32_36: -963279206
+      animated_door_vertical_left_1_32x32_40: -333462613
+      animated_door_vertical_left_1_32x32_31: -1675119636
+      animated_door_vertical_left_1_32x32_12: -713252913
+      animated_door_vertical_left_1_32x32_6: 2055073900
+      animated_door_vertical_left_1_32x32_30: -849888558
+      animated_door_vertical_left_1_32x32_10: 433694377
+      animated_door_vertical_left_1_32x32_20: -1134540139
+      animated_door_vertical_left_1_32x32_11: -563201906
+      animated_door_vertical_left_1_32x32_25: 435354001
+      animated_door_vertical_left_1_32x32_18: 344321811
+      animated_door_vertical_left_1_32x32_35: 1689637608
+      animated_door_vertical_left_1_32x32_19: 2136157770
+      animated_door_vertical_left_1_32x32_17: 556165882
+      animated_door_vertical_left_1_32x32_27: 375307655
+      animated_door_vertical_left_1_32x32_15: 553588022
+      animated_door_vertical_left_1_32x32_42: 653495387
+      animated_door_vertical_left_1_32x32_9: 74213362
+      animated_door_vertical_left_1_32x32_0: -886883142
+      animated_door_vertical_left_1_32x32_34: -181362207
+      animated_door_vertical_left_1_32x32_3: 1739302100
+      animated_door_vertical_left_1_32x32_8: -1925019210
+      animated_door_vertical_left_1_32x32_37: 364568309
+      animated_door_vertical_left_1_32x32_16: 497277241
+      animated_door_vertical_left_1_32x32_2: 1683013513
+      animated_door_vertical_left_1_32x32_4: -847840242
+      animated_door_vertical_left_1_32x32_5: -1274273821
+      animated_door_vertical_left_1_32x32_38: 945652315
+      animated_door_vertical_left_1_32x32_33: 63079428
+      animated_door_vertical_left_1_32x32_13: 449042925
+      animated_door_vertical_left_1_32x32_41: -1571402713
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
