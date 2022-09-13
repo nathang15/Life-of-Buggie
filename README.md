@@ -12,7 +12,9 @@
   
 ## Future plan:
 > This project is open for anyone who wants to contribute or just want to have fun and learn new things.
+
 > This game will eventually be published on market for free/sale depends on the situation. I started this project not to profit from sales but only for the love of RPG gaming, story-telling, and just to create something that I am proud of.
+
 > I am willing to spend years to complete and finesse this game. Anyone who have similar mindset are always welcome to join, whether it is the game art, world/quest/level designing, or coding AI behavior, etc.
 
 **With that being said, here are my future development for the game:**
