@@ -15,12 +15,18 @@
 - Gameplay video: https://youtu.be/delTReDJEXk
 
 ![Screenshot 2022-09-13 005449](https://user-images.githubusercontent.com/98335699/189812484-e2747980-fa20-444c-bfe6-1fa4d40436b5.jpg)
+
 ![Screenshot 2022-09-13 005528](https://user-images.githubusercontent.com/98335699/189812495-9c5463ff-1f32-4892-9cdc-7ce01e11f094.jpg)
+
 ![Screenshot 2022-09-13 005616](https://user-images.githubusercontent.com/98335699/189812503-1202f7d3-3a70-4696-a65d-dc3644e7af7a.jpg)
+
 ![Screenshot 2022-09-13 005646](https://user-images.githubusercontent.com/98335699/189812512-0c2ddf68-ff52-49c9-a566-c666f9cbfbd8.jpg)
+
 ![Scree![Screenshot 2022-09-13 005243](https://user-images.githubusercontent.com/98335699/189812525-813e003e-09e8-4a57-a9c9-a336772e012e.jpg)
 nshot 2022-09-13 005710](https://user-images.githubusercontent.com/98335699/189812518-aeb90087-1645-4b51-865e-4cc575ac09d7.jpg)
+
 ![Screenshot 2022-09-13 005345](https://user-images.githubusercontent.com/98335699/189812534-4a1414f3-79e1-414f-b1c3-cfa8bf3c453b.jpg)
+
 ![Screenshot 2022-09-13 005312](https://user-images.githubusercontent.com/98335699/189812543-a656f581-7227-417b-91d5-f66caa6b4e79.jpg)
   
 ## Future plan:
